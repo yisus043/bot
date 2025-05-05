@@ -7,7 +7,7 @@ TOKEN = "7762921178:AAFyQTYd3ZUTfpYVNeRHEdiwHaLMuflL2S0"
 def get_mensaje(idioma='es'):
     if idioma == 'en':
         return (
-            "📊 *Access to 7 Exclusive Picks*\n"
+            "📊 *Access to 7 Exclusive Picks - $270 mxn*\n"
             "Minimum odds of 1.58 with high probability.\n"
             "Get your predictions now!\n\n"
             "ℹ️ *Frequently Asked Questions*\n\n"
