@@ -22,7 +22,7 @@ def get_mensaje(idioma='es'):
         )
     else:
         return (
-            "📊 *Acceso a 7 Picks Exclusivos*\n"
+            "📊 *Acceso a 7 Picks Exclusivos - $270 mxn*\n"
             "Cuotas mínimas de 1.58 altamente probables.\n"
             "¡Consigue tus pronósticos ahora!\n\n"
             "ℹ️ *Preguntas Frecuentes*\n\n"
